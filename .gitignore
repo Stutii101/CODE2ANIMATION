@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+
+#What each one does
+#__pycache__/ → ignores Python's automatically generated cache folder
+#*.pyc → ignores compiled Python cache files
+#.venv/ and venv/ → ignores virtual environments
+#.env → prevents environment files that may contain private information from being uploaded
+#.vscode/ → ignores VS Code's project-specific settings
