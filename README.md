@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projectile Motion Animation
 
 ## Overview
@@ -46,3 +47,7 @@ Vertical Position
 y = u sin(theta) t - 1/2 gt²
 
 The angle entered by the user in degrees is converted to radians before applying NumPy's trigonometric functions.
+=======
+# CODE2ANIMATION
+working projectile motion
+>>>>>>> 0477d6160066915e6b8739a6bda898da5c2da9d7
